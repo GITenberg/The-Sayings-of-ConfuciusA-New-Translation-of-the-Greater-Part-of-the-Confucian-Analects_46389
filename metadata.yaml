@@ -1,0 +1,46 @@
+_repo: The-Sayings-of-ConfuciusA-New-Translation-of-the-Greater-Part-of-the-Confucian-Analects_46389
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Giles, Lionel
+    birthdate: 1875
+    deathdate: 1958
+    gutenberg_agent_id: '5101'
+    url: http://www.gutenberg.org/2009/agents/5101
+    wikipedia: http://en.wikipedia.org/wiki/Lionel_Giles
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Confucius
+    alias: 孔子
+    birthdate: -551
+    deathdate: -479
+    gutenberg_agent_id: '1180'
+    url: http://www.gutenberg.org/2009/agents/1180
+    wikipedia: http://en.wikipedia.org/wiki/Confucius
+description: '<i>The Analects</i> is a compilation of ethical pronouncements attributed
+  to the ancient Chinese scholar and teacher Kung Fu-Tse, known in the West as Confucius.
+  Confucius felt that society had been drifting into moral decay for at least 200
+  years before his birth, and his life''s effort was an attempt to reverse this trend
+  for he maintained that we, as humans, are capable of handling our own problems without
+  the aid of Divine assistance. This is the only work attributed to Confucius, and
+  it is, in fact, the labor of his students, who compiled his moral maxims in <i>The
+  Analects</i> after his death in 479 B.C. '
+gutenberg_issued: '2014-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Philosophy, Chinese'
+- !lcsh 'Ethics -- China'
+title: 'The Sayings of Confucius
+
+  A New Translation of the Greater Part of the Confucian Analects'
+url: http://www.gutenberg.org/ebooks/46389
